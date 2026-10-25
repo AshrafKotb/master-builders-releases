@@ -2,6 +2,9 @@
 
 <p align="center"><b>لعبة استراتيجية لوحية: اجمع الموارد، عيّن المتدربين، شيّد المباني، وارتقِ بالكاتدرائية قبل خصومك.</b></p>
 
+> نسخة رقمية **غير رسمية** عملها معجبين من لعبة **Architects of the West Kingdom**، ومالهاش أي علاقة بـ Garphill Games ولا بالناشر.
+> *An unofficial, fan-made digital version of **Architects of the West Kingdom**. Not affiliated with or endorsed by Garphill Games or its publishers.*
+
 ## ⬇️ التحميل
 
 **[حمّل آخر نسخة لويندوز (MasterBuilders-Setup.exe)](https://github.com/AshrafKotb/master-builders-releases/releases/latest/download/MasterBuilders-Setup.exe)**
