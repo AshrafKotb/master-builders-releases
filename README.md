@@ -4,7 +4,7 @@
 
 ## ⬇️ التحميل
 
-**[حمّل آخر نسخة لويندوز (MasterBuilders-Setup.exe)](https://github.com/AshrafKotb/Master-Builders-Game/releases/latest/download/MasterBuilders-Setup.exe)**
+**[حمّل آخر نسخة لويندوز (MasterBuilders-Setup.exe)](https://github.com/AshrafKotb/master-builders-releases/releases/latest/download/MasterBuilders-Setup.exe)**
 
 1. شغّل الملف. لو ظهر «Windows protected your PC»، دوس **More info** وبعدين **Run anyway** (الملف مش موقّع بشهادة مدفوعة).
 2. اختار اللغة وكمّل التثبيت. مش محتاج صلاحيات أدمن.
@@ -16,7 +16,7 @@
 
 ### 🐧 لينكس
 
-**[حمّل نسخة لينكس (MasterBuilders-Linux.tar.gz)](https://github.com/AshrafKotb/Master-Builders-Game/releases/latest/download/MasterBuilders-Linux.tar.gz)** (64-bit)
+**[حمّل نسخة لينكس (MasterBuilders-Linux.tar.gz)](https://github.com/AshrafKotb/master-builders-releases/releases/latest/download/MasterBuilders-Linux.tar.gz)** (64-bit)
 
 ```bash
 tar -xzf MasterBuilders-Linux.tar.gz
@@ -27,6 +27,6 @@ tar -xzf MasterBuilders-Linux.tar.gz
 
 ---
 
-**Download:** [Windows installer](https://github.com/AshrafKotb/Master-Builders-Game/releases/latest/download/MasterBuilders-Setup.exe) (Windows 10/11, 64-bit; updates install themselves) · [Linux .tar.gz](https://github.com/AshrafKotb/Master-Builders-Game/releases/latest/download/MasterBuilders-Linux.tar.gz) (x86-64; unpack and run `MasterBuilders/MasterBuilders.x86_64`; the game tells you when a new version is out).
+**Download:** [Windows installer](https://github.com/AshrafKotb/master-builders-releases/releases/latest/download/MasterBuilders-Setup.exe) (Windows 10/11, 64-bit; updates install themselves) · [Linux .tar.gz](https://github.com/AshrafKotb/master-builders-releases/releases/latest/download/MasterBuilders-Linux.tar.gz) (x86-64; unpack and run `MasterBuilders/MasterBuilders.x86_64`; the game tells you when a new version is out).
 
 > This repository only hosts the installer releases. The game's source code is private.
